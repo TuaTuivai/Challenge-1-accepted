@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Navigation Tab */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -66,6 +67,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* First Section Grouped */
 .search-engine-optimization, 
 .online-reputation-management, 
 .social-media-marketing  {
@@ -77,13 +79,14 @@ p {
     color: #ffffff;
 }
 
+/* First Section Images Grouped */
 .search-engine-optimization img, 
 .online-reputation-management img, 
 .social-media-marketing img  {
     max-height: 200px;
 }
 
-
+/* First Section Lettering grouped */
 .search-engine-optimization h2, 
 .online-reputation-management h2, 
 .social-media-marketing h2 {
@@ -147,6 +150,7 @@ p {
     text-align: center;
 }
 
+/* Footer changed to h4  */
 .footer h4 {
     font-size: 20px;
 }
